@@ -1,6 +1,6 @@
-/* Global styles */
+g/* Global styles */
 :root {
-    --font-family:sans-serif;
+    --font-family: sans-serif;
     --primary-color: #1e9c9c;
     --secondary-color: #c3c2c2;
     --error-color: #ff0000;
@@ -29,7 +29,7 @@
   }
   
   .paragraph {
-    
+    text-align: justify;
     margin-bottom: 20px;
     color: #1f1e1e;
   }
